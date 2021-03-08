@@ -1,6 +1,6 @@
 # PHP homework
 
-### 20 group BDI calculator
+### 20 group BMI calculator
 
 This project is for educational porpuses only.
 
