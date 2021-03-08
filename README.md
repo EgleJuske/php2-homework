@@ -4,7 +4,7 @@
 
 This project is for educational porpuses only.
 
-With this application you can check you BMI and rethink your life decisions if your BMI is not in the right interval...
+With this application you can check your BMI and rethink your life decisions if your BMI is not in the right interval...
 
 ## Authors
 
