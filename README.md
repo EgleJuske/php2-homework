@@ -4,7 +4,7 @@
 
 This project is for educational porpuses only.
 
-This project is published at https://eglejuske.github.io/php2-homework/
+With this application you can check you BMI and rethink your life decisions if your BMI is not in the right interval...
 
 ## Authors
 
